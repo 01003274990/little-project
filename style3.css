@@ -1,0 +1,175 @@
+.container{width: 1200px;margin: auto}
+.header{background-image: url(images/Desert.jpg);height: 600px;background-size: cover; background-repeat: no-repeat;}
+.header{padding: 30px}
+.header .home{overflow: hidden}
+
+.home h1 {text-transform: uppercase; color: white; float: left}
+.header .home ul {list-style: none; color: white; float: right; overflow: hidden}
+
+  .header .home ul li{float: left; padding: 0px 20px; overflow: hidden; cursor: pointer}
+  
+.startup h1{color: snow;
+    font-weight: bold;
+    font-size: 60px;
+    width: 40%;
+    margin-top: -100px;
+    text-align: center;
+    padding-top: 181px;}
+.startup button{
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 50px;} 
+.count h3{
+    margin-left: 567px;
+    color: blue;}
+    
+.count p{
+        padding-top: 15px;
+    font-size: 30px;
+    color: black;
+    margin-left: 454px;}
+.items{overflow: auto; text-decoration: none;}
+
+
+.web{float: left ;
+    width: 30% ;
+    margin-right: 10px;
+    overflow: auto;
+    text-align: center;}
+
+.us{
+padding: 30px;
+    color: white;
+    background-color: black;
+    height: 472px;
+    width: 466px;margin-left: 737px;
+    background-size: cover;}
+.us img{float: right;
+    margin-right: 500px;
+    margin-top: -383px;
+    width: 800px;
+    height: 458px;}
+.us button{
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 50px; 
+    background-color: blueviolet;
+    margin: 20px;}
+
+.work h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;}
+
+.work p{
+    text-align: center;
+    opacity: 0.5}
+.photos{overflow: auto; text-decoration: none;}
+
+    
+.picture{float: left ;
+    width: 40% ;
+    margin-right: 10px;
+    overflow: auto;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 30px;
+    margin-bottom: -4px;}
+
+.team h1{
+    text-align: center;
+    padding-top: 50px;}
+    
+.team p{
+    
+    text-align: center;
+    padding-top: 50px;
+    opacity: 0.5;}
+ 
+.man{
+    float: left;
+    width: 25%;
+    overflow: auto;
+    text-align: center;}
+    
+.null{
+    text-align: center;
+    color: blue;
+    background-image: url(images/p13.jpg);background-size: cove;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-top: 350px;
+    margin-left: 305px;
+    width: 740px;}
+
+.null h1{
+    padding-top: 106px;
+    color: #f44336;}
+    
+.get h1{text-align: center;
+    word-spacing: 3px;}
+.get p{text-align: center;
+    word-spacing: 3px;
+    opacity: 0.5;}
+    
+.type{
+   word-spacing: 80px;
+    margin: 30px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin-left: 196px;}
+
+.type input{
+    padding: 23px;
+    border-radius: 37%;
+    margin-top: 24px;
+    width: 30%;}
+
+.message button{
+
+padding: 23px;
+    color: white;
+    margin-left: 470px;
+    width: 401px;
+    border-radius: 37%;
+    color: white;
+    background-color: blueviolet;}
+    
+.page{background-color: black;background-size: cover;height: 200px;padding-top: 50px;margin-top: 30px}
+
+   .page h1 {text-transform: uppercase; color: white; float: left;margin-left: 30px;}
+.page li{
+    color: white;
+    float: left;
+    list-style: none;
+    overflow: hidden;}
+
+ .page ul li{float: left; padding: 0px 20px; overflow: hidden; cursor: pointer}
+.page p{
+    color: white;
+    margin-top: 165px;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+    
+    
+    
