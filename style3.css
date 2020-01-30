@@ -20,10 +20,11 @@
     color: white;
     font-size: 20px;
     border: none;
-    border-radius: 50px;} 
+    border-radius: 50px;background-color: blueviolet;width: 300px;outline: 0} 
 .count h3{
     margin-left: 567px;
-    color: blue;}
+    color: blue;margin-top: 70px;
+    font-size: 30px;}
     
 .count p{
         padding-top: 15px;
@@ -37,15 +38,21 @@
     width: 30% ;
     margin-right: 10px;
     overflow: auto;
-    text-align: center;}
+    text-align: center;
+    border: 30px;
+    border: 1px solid whitesmoke;
+    margin-bottom: 40px;
+}
+
 
 .us{
 padding: 30px;
     color: white;
     background-color: black;
-    height: 472px;
+    height: 405px;
     width: 466px;margin-left: 737px;
-    background-size: cover;}
+    background-size: cover;line-height: 21px; padding-top: 25px;}
+
 .us img{float: right;
     margin-right: 500px;
     margin-top: -383px;
@@ -58,63 +65,78 @@ padding: 30px;
     border: none;
     border-radius: 50px; 
     background-color: blueviolet;
-    margin: 20px;}
+    margin: 20px;outline: 0}
+.work {background-color: white;}
 
 .work h1{
-    text-align: center;
     color: black;
-    font-size: 30px;}
+    font-size: 30px;
+    margin-left: 85px;
+    padding-top: 400px;
+    font-family: Arial;}
+.job h1{text-align: center;padding-top: 30px;
+    word-spacing: 7px;
+    font-size: 32px;}
+.job p{text-align: center;word-spacing: 5px;line-height: 25px;}
+
 
 .work p{
-    text-align: center;
-    opacity: 0.5}
+    opacity: 0.5;margin-top: 17px;margin-left: 85px;
+    padding-top: 400pxpx;
+    line-height: 28px;
+}
+.work img{margin-left: 620px;
+    margin-top: -287px;}
+.work video{
+    color: red;
+}
+
+
 .photos{overflow: auto; text-decoration: none;}
+.picture img{width: 518px;padding-top: 60px;}
 
     
 .picture{float: left ;
-    width: 40% ;
-    margin-right: 10px;
+    width: 38% ;
+    margin-right: 8px;
     overflow: auto;
     text-align: center;
-    margin-left: 80px;
+    margin-left: 95px;
     margin-top: 30px;
     margin-bottom: -4px;}
-
-.team h1{
+    .scan{width: 24%;float: left;margin-left: 85px;overflow: hidden;margin-top: 10px;}
+        
+        .team h1{
     text-align: center;
     padding-top: 50px;}
     
 .team p{
     
     text-align: center;
-    padding-top: 50px;
-    opacity: 0.5;}
+    padding-top: 12px;
+    opacity: 0.5;
+    word-spacing: 4px;
+    line-height: 22px;
+}
  
 .man{
     float: left;
     width: 25%;
     overflow: auto;
-    text-align: center;}
-    
-.null{
-    text-align: center;
-    color: blue;
-    background-image: url(images/p13.jpg);background-size: cove;
-    background-repeat: no-repeat;
-    height: 500px;
-    margin-top: 350px;
-    margin-left: 305px;
-    width: 740px;}
-
-.null h1{
-    padding-top: 106px;
-    color: #f44336;}
-    
-.get h1{text-align: center;
+    text-align: center;padding-top: 50px;}
+.donce{background-image: url(images/p13.jpg);height: 400px;background-size: cover;padding: 30px;margin-top: 400px;}
+.donce h1{color: white;text-align: center;margin-top: 56px;line-height: 40px;
     word-spacing: 3px;}
+
+.get h1{text-align: center;
+    word-spacing: 3px;
+    font-size: 35px;
+    padding-top: 30px;}
+
 .get p{text-align: center;
     word-spacing: 3px;
-    opacity: 0.5;}
+    opacity: 0.5;line-height: 30px;}
+
     
 .type{
    word-spacing: 80px;
@@ -127,49 +149,53 @@ padding: 30px;
     padding: 23px;
     border-radius: 37%;
     margin-top: 24px;
-    width: 30%;}
+    width: 30%;outline: 0;}
+.science{word-spacing: 80px;
+    margin: 30px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin-left: 196px;}
+.science input{border-radius: 33%;
+    padding: 29px;
+    height: 14px;
+    width: 802px; outline: 0;}
+
+.messanger input{border-radius: 33%;
+    padding: 29px;
+    height: 182px;
+    width: 802px;
+    margin-left: 190px;
+    outline: 0
+}
 
 .message button{
 
 padding: 23px;
     color: white;
-    margin-left: 470px;
-    width: 401px;
+    margin-left: 390px;
+    width: 400px;
     border-radius: 37%;
     color: white;
-    background-color: blueviolet;}
+    background-color: blueviolet;margin-top: 35px;font-size: 20px;outline: 0}
     
-.page{background-color: black;background-size: cover;height: 200px;padding-top: 50px;margin-top: 30px}
+.end{background-color: black;background-size: cover;height: 275px}
+.end h1{color: white;margin-bottom: -37px; margin-left: 35px;
+    padding-top: 17px;}
 
-   .page h1 {text-transform: uppercase; color: white; float: left;margin-left: 30px;}
-.page li{
+
+.end li{
     color: white;
     float: left;
     list-style: none;
     overflow: hidden;}
 
- .page ul li{float: left; padding: 0px 20px; overflow: hidden; cursor: pointer}
-.page p{
-    color: white;
-    margin-top: 165px;
-    text-align: center;
-    
-}
+ .end ul li 
+{float: left; padding: 0px 20px; overflow: hidden;
+     cursor: pointer;
+     margin-top: 0px;
+    margin-left: 128px;}
+.end ul li:hover{text-decoration: none;color: #fff;}
 
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-    
-    
-    
+.end hr{margin-top: 200px;}
+.end p{color: white;text-align: center;}   
+.end p span{color: blueviolet;word-spacing: 10px}
