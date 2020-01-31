@@ -1,3 +1,4 @@
+/*start header*/
 .container{width: 1200px;margin: auto}
 .header{background-image: url(images/Desert.jpg);height: 600px;background-size: cover; background-repeat: no-repeat;}
 .header{padding: 30px}
@@ -32,19 +33,18 @@
     color: black;
     margin-left: 454px;}
 .items{overflow: auto; text-decoration: none;}
+.web border hover:{color: blueviolet;}
 
-
-.web{float: left ;
+.web {float: left ;
     width: 30% ;
     margin-right: 10px;
     overflow: auto;
     text-align: center;
     border: 30px;
     border: 1px solid whitesmoke;
-    margin-bottom: 40px;
-}
-
-
+    margin-bottom: 40px;}
+/*End header*/
+/*start nav*/
 .us{
 padding: 30px;
     color: white;
@@ -72,7 +72,7 @@ padding: 30px;
     color: black;
     font-size: 30px;
     margin-left: 85px;
-    padding-top: 400px;
+    padding-top: 460px;
     font-family: Arial;}
 .job h1{text-align: center;padding-top: 30px;
     word-spacing: 7px;
@@ -86,26 +86,17 @@ padding: 30px;
     line-height: 28px;
 }
 .work img{margin-left: 620px;
-    margin-top: -287px;}
+    margin-top: -179px;}
 .work video{
     color: red;
 }
 
 
 .photos{overflow: auto; text-decoration: none;}
-.picture img{width: 518px;padding-top: 60px;}
-
+.picture img{margin-left: 23px;float: left;}
+  
+.scan{width: 31%;float: left;padding-left: 27px;padding-top: 31px}
     
-.picture{float: left ;
-    width: 38% ;
-    margin-right: 8px;
-    overflow: auto;
-    text-align: center;
-    margin-left: 95px;
-    margin-top: 30px;
-    margin-bottom: -4px;}
-    .scan{width: 24%;float: left;margin-left: 85px;overflow: hidden;margin-top: 10px;}
-        
         .team h1{
     text-align: center;
     padding-top: 50px;}
@@ -172,30 +163,40 @@ padding: 30px;
 
 padding: 23px;
     color: white;
-    margin-left: 390px;
-    width: 400px;
+    margin-left: 380px;
+    width: 474px;
     border-radius: 37%;
     color: white;
-    background-color: blueviolet;margin-top: 35px;font-size: 20px;outline: 0}
+    background-color: blue;margin-top: 35px;font-size: 20px;outline: 0}
+/*End nav*/
+/*start footer*/
+   .end{background-color: black;background-size: cover;height: 275px;margin-top: 60px}
+.end ul  h2{color: white; margin-left: 30px;
+    padding-top: 5px;}
+.end ul li{
     
-.end{background-color: black;background-size: cover;height: 275px}
-.end h1{color: white;margin-bottom: -37px; margin-left: 35px;
-    padding-top: 17px;}
+    float: left;margin-right: 20px;font-weight: bold;}
+.end ul li a{
+    color: white;}
+.end ul li a:link{text-decoration: none;font-size: 15px;}
+.end ul li a:hover{text-decoration: none;color: white;}
+.end .head4{padding: 30px;margin-left: -29px;}
+.end ul span{color: blue;}
+.end hr{margin-top: -57px;}
+.end p{color: white;padding-top: 236px;text-align: center;}
+.end .head5 ul li{margin: 0px;margin-left: 26px;padding-top: 32px;}
+.end .head5{padding-top: 35px;margin-left: -2px;}
+
+/*End footer*/
 
 
-.end li{
-    color: white;
-    float: left;
-    list-style: none;
-    overflow: hidden;}
 
- .end ul li 
-{float: left; padding: 0px 20px; overflow: hidden;
-     cursor: pointer;
-     margin-top: 0px;
-    margin-left: 128px;}
-.end ul li:hover{text-decoration: none;color: #fff;}
-
-.end hr{margin-top: 200px;}
-.end p{color: white;text-align: center;}   
-.end p span{color: blueviolet;word-spacing: 10px}
+    
+    
+    
+    
+    
+    
+    
+    
+    
